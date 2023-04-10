@@ -1,5 +1,5 @@
-### Hi there Fellow!! 👋
-My Name is ###Muhammad Abdul Barr.
+![giphy](https://user-images.githubusercontent.com/113469229/230984804-0ebe77ed-fd57-4f76-911a-33f03b32250d.gif)
+###My Name is ###Muhammad Abdul Barr.
 
 <!--
 **Muhammad-Abdul-Barr/Muhammad-Abdul-Barr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
