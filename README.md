@@ -4,15 +4,17 @@
 
                         Undergraduate Computer Scientist👨‍🎓 || Data Engineer TO BE 📊👨‍💻
 
-<h2> About Me </h2>
+<h2> About Me <img src="https://user-images.githubusercontent.com/113469229/231114918-d14fc03d-30a3-43c7-a291-3550f18e1e62.gif" bottom="0px" width="40" height="40" style="margin-right: 10px;"> </h2>
+
 
 Currently, persuing my Degree of Bachelor's in Computer Science. Love to learn and experiment on new things. I like to make things different from others bringing a Unique Touch to my product. Always Step-up to Leadership cause I love to be in the Lead. An Extrovert, always seeking new Connections.
 
 - 🌱 I’m currently learning C# 💻
 - 🌱 I’m currently also learning MySQL 💾📊🔍
 
-<h2> Skills </h2>
+<h2> Skills <img src="https://user-images.githubusercontent.com/113469229/231116392-2cb1267e-3188-4c9d-96de-850d79f3d05d.gif" bottom="0px" width="40" height="40" style="margin-right: 10px;"> </h2>
 <img align="right" height ="220" width= "220" alt="GIF" src="https://user-images.githubusercontent.com/113469229/231003273-5493ecc1-d13b-4ccb-85df-32d08e704805.gif">
+![organization-unscreen]()
 
 - Programming Languages
   1. 🐍 Python 
@@ -22,7 +24,7 @@ Currently, persuing my Degree of Bachelor's in Computer Science. Love to learn a
 - Project Management
 - Office Expert
 
-<h2> Contact Me<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" top="100px" width="30" height="20" style="margin-right: 10px;"> </h2>
+<h2> Contact Me<img src="https://user-images.githubusercontent.com/113469229/231109114-d3d8f883-815f-4154-9e3c-8c4f7a53cd94.gif" width="30" height="20" style="margin-right: 10px;"> </h2>
 
 <p align="center">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/muhammad-abdul-barr-92bba3255/">
