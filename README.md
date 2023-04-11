@@ -22,13 +22,13 @@ Currently, persuing my Degree of Bachelor's in Computer Science. Love to learn a
 - Project Management
 - Office Expert
 
-<h2> Contact Me<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" top="50px" width="30" height="20" style="margin-right: 10px;"> </h2>
+<h2> Contact Me<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" top="100px" width="30" height="20" style="margin-right: 10px;"> </h2>
 
 <p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/muhammad-abdul-barr-92bba3255/">
           <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+	<a style="margin-left: 10px;" target="_blank" href="https://mail.google.com/mail/u/0/?fs=1&to=malickbarr@outlook.com&tf=cm">
+			<img src="https://img.icons8.com/doodle/1x/gmail--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/malick.barr">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/malick_barr_">
@@ -36,9 +36,8 @@ Currently, persuing my Degree of Bachelor's in Computer Science. Love to learn a
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC98VabdnXT6MkWdDZIPIUEQ?view_as=subscriber">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://www.facebook.com/malick.barr.3">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+			<img src="https://img.icons8.com/doodle/1x/facebook--v2.png" ></a>
       </div>
-
 </p>
 
 <!--
@@ -47,6 +46,7 @@ Currently, persuing my Degree of Bachelor's in Computer Science. Love to learn a
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
 - ⚡ Fun fact: ...
 -->
 
