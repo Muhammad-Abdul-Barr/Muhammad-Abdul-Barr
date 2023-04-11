@@ -1,8 +1,12 @@
-  <img align="right" top="500" height="140" width="140" alt="GIF" src="https://user-images.githubusercontent.com/113469229/230985796-5f22cb5d-e112-425b-823d-e84c649b612b.gif">
+  <img align="left" top="500" height="140" width="140" alt="GIF" src="https://user-images.githubusercontent.com/113469229/230985796-5f22cb5d-e112-425b-823d-e84c649b612b.gif">
 </a>
-<h1  style="line-height:1.4"> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; I 'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank"><b>Muhammad Abdul Barr</a>!!</b></h1>
 
-                        Undergraduate Computer Scientist👨‍🎓 || Data Engineer TO BE 📊👨‍💻
+<div text-align="left" top="500">
+	
+<h1  style="line-height:1.4"> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; I'm <b>Muhammad Abdul Barr</a>!!</b></h1>
+
+                             Undergraduate Computer Scientist👨‍🎓 || Data Engineer TO BE 📊👨‍💻
+</div>
 
 <h2> About Me <img src="https://user-images.githubusercontent.com/113469229/231114918-d14fc03d-30a3-43c7-a291-3550f18e1e62.gif" bottom="0px" width="40" height="40" style="margin-right: 10px;"> </h2>
 
@@ -14,7 +18,8 @@ Currently, persuing my Degree of Bachelor's in Computer Science. Love to learn a
 
 <h2> Skills <img src="https://user-images.githubusercontent.com/113469229/231116392-2cb1267e-3188-4c9d-96de-850d79f3d05d.gif" bottom="0px" width="40" height="40" style="margin-right: 10px;"> </h2>
 <img align="right" height ="220" width= "220" alt="GIF" src="https://user-images.githubusercontent.com/113469229/231003273-5493ecc1-d13b-4ccb-85df-32d08e704805.gif">
-![organization-unscreen]()
+
+<p margin: 25px 50px 75px;>
 
 - Programming Languages
   1. 🐍 Python 
@@ -24,6 +29,8 @@ Currently, persuing my Degree of Bachelor's in Computer Science. Love to learn a
 - Project Management
 - Office Expert
 
+	</p>
+	
 <h2> Contact Me<img src="https://user-images.githubusercontent.com/113469229/231109114-d3d8f883-815f-4154-9e3c-8c4f7a53cd94.gif" width="30" height="20" style="margin-right: 10px;"> </h2>
 
 <p align="center">
@@ -39,7 +46,6 @@ Currently, persuing my Degree of Bachelor's in Computer Science. Love to learn a
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://www.facebook.com/malick.barr.3">
 			<img src="https://img.icons8.com/doodle/1x/facebook--v2.png" ></a>
-      </div>
 </p>
 
 <!--
