@@ -22,28 +22,24 @@ Currently, persuing my Degree of Bachelor's in Computer Science. Love to learn a
 - Project Management
 - Office Expert
 
-<h2> Contact Me<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="20" style="margin-right: 10px;"> </h2>
+<h2> Contact Me<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" top="50px" width="30" height="20" style="margin-right: 10px;"> </h2>
 
-<div align="center;">
-   <a target="_blank" href="https://instagram.com/malick.barr">
-      <img style="display: inline-block; margin: 0 10px;" src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
-   </a>
-   <a target="_blank" href="https://twitter.com/malick.barr">
-      <img style="display: inline-block; margin: 0 10px;" src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png">
-   </a>
-   <a target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-      <img style="display: inline-block; margin: 0 10px;" src="https://img.icons8.com/doodle/1x/youtube--v2.png">
-   </a>
-</div>
-<div align = "center">
-   <a target="_blank" href="https://instagram.com/malick.barr">
-  <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" width ="100">
-     <a target="_blank" href="https://twitter.com/malick.barr">
-    <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" width="100">
-        <a target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-    <img src="https://img.icons8.com/doodle/1x/youtube--v2.png" width="100">
-  
-</div>
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/muhammad-abdul-barr-92bba3255/">
+          <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/malick.barr">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/malick_barr_">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC98VabdnXT6MkWdDZIPIUEQ?view_as=subscriber">
+				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+		<a style="margin-left: 5px;" target="_blank" href="https://www.facebook.com/malick.barr.3">
+					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+      </div>
+
+</p>
 
 <!--
 - 👯 I’m looking to collaborate on ...
