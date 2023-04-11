@@ -24,12 +24,18 @@ Currently, persuing my Degree of Bachelor's in Computer Science. Love to learn a
 
 <h2> Contact Me </h2>
 
-<a style="margin-left: 10px;" target="_blank" href="https://instagram.com/malick.barr">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/malick.barr">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+<div style="display: flex; justify-content: center;">
+   <a target="_blank" href="https://instagram.com/malick.barr">
+      <img style="display: block; margin: 0 auto;" src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
+   </a>
+   <a target="_blank" href="https://twitter.com/malick.barr">
+      <img style="display: block; margin: 0 auto;" src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png">
+   </a>
+   <a target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
+      <img style="display: block; margin: 0 auto;" src="https://img.icons8.com/doodle/1x/youtube--v2.png">
+   </a>
+</div>
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
