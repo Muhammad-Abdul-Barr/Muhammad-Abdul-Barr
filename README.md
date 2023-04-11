@@ -22,18 +22,27 @@ Currently, persuing my Degree of Bachelor's in Computer Science. Love to learn a
 - Project Management
 - Office Expert
 
-<h2> Contact Me </h2>
+<h2> Contact Me<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="20" style="margin-right: 10px;"> </h2>
 
-<div style="display: flex; justify-content: center;">
+<div align="center;">
    <a target="_blank" href="https://instagram.com/malick.barr">
-      <img style="display: block; margin: 0 auto;" src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
+      <img style="display: inline-block; margin: 0 10px;" src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
    </a>
    <a target="_blank" href="https://twitter.com/malick.barr">
-      <img style="display: block; margin: 0 auto;" src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png">
+      <img style="display: inline-block; margin: 0 10px;" src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png">
    </a>
    <a target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-      <img style="display: block; margin: 0 auto;" src="https://img.icons8.com/doodle/1x/youtube--v2.png">
+      <img style="display: inline-block; margin: 0 10px;" src="https://img.icons8.com/doodle/1x/youtube--v2.png">
    </a>
+</div>
+<div align = "center">
+   <a target="_blank" href="https://instagram.com/malick.barr">
+  <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" width ="100">
+     <a target="_blank" href="https://twitter.com/malick.barr">
+    <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" width="100">
+        <a target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
+    <img src="https://img.icons8.com/doodle/1x/youtube--v2.png" width="100">
+  
 </div>
 
 <!--
