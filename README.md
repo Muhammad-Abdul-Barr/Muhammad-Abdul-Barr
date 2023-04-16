@@ -34,7 +34,7 @@ Currently, persuing my Degree of Bachelor's in Computer Science. Love to learn a
 <h2> Contact Me<img src="https://user-images.githubusercontent.com/113469229/231109114-d3d8f883-815f-4154-9e3c-8c4f7a53cd94.gif" width="30" height="20" style="margin-right: 10px;"> </h2>
 
 <p align="center">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/muhammad-abdul-barr-92bba3255/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/muhammad-abdul-barr">
           <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
 	<a style="margin-left: 10px;" target="_blank" href="https://mail.google.com/mail/u/0/?fs=1&to=malickbarr@outlook.com&tf=cm">
 			<img src="https://img.icons8.com/doodle/1x/gmail--v2.png"></a>
