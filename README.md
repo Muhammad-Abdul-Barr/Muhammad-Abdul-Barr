@@ -11,7 +11,7 @@
 <h2> About Me <img src="https://user-images.githubusercontent.com/113469229/231114918-d14fc03d-30a3-43c7-a291-3550f18e1e62.gif" bottom="0px" width="40" height="40" style="margin-right: 10px;"> </h2>
 
 
-Currently, persuing my Degree of Bachelor's in Computer Science. Love to learn and experiment on new things. I like to make things different from others bringing a Unique Touch to my product. Always Step-up to Leadership cause I love to be in the Lead. An Extrovert, always seeking new Connections.
+Currently, pursuing my Degree of Bachelor's in Computer Science. Love to learn and experiment with new things. I like to make things different from others bringing a Unique Touch to my product. Always Step-up to Leadership cause I love to be in the Lead. An Extrovert, always seeking new Connections.
 
 - 🌱 I’m currently learning C# 💻
 - 🌱 I’m currently also learning MySQL 💾📊🔍
