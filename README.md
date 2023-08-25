@@ -13,7 +13,7 @@
 
 Currently, pursuing my Degree of Bachelor's in Computer Science. Love to learn and experiment with new things. I like to make things different from others bringing a Unique Touch to my product. Always Step-up to Leadership cause I love to be in the Lead. An Extrovert, always seeking new Connections.
 
-- 🌱 I’m currently learning C# 💻
+- 🌱 I’m currently learning DSA 💻
 - 🌱 I’m currently also learning MySQL 💾📊🔍
 
 <h2> Skills <img src="https://user-images.githubusercontent.com/113469229/231116392-2cb1267e-3188-4c9d-96de-850d79f3d05d.gif" bottom="0px" width="40" height="40" style="margin-right: 10px;"> </h2>
@@ -24,7 +24,8 @@ Currently, pursuing my Degree of Bachelor's in Computer Science. Love to learn a
 - Programming Languages
   1. 🐍 Python 
   2. 🅒  C/C++
-  3. 🤖 Arudino
+  3. 🔶 C#
+  4. 🤖 Arudino
 - Communication Skills
 - Project Management
 - Office Expert
