@@ -26,6 +26,7 @@ Currently, pursuing my Degree of Bachelor's in Computer Science. Love to learn a
   2. 🅒  C/C++
   3. 🔶 C#
   4. 🤖 Arudino
+  5. 🔩 AVR Assembly
 - Communication Skills
 - Project Management
 - Office Expert
